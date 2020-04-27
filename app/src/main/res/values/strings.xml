@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StartHttpLink</string>
+    <string name="weblink">https://www.google.com/</string>
+    <string name="btnMsg">Click this BUTTON to open the above link in browser.</string>
+</resources>
